@@ -17,5 +17,8 @@ Pandas: Biblioteca para manipulação e análise de dados.
 Metaplot: Biblioteca para visualização de dados.
 Streamlit: Framework para criar interfaces web interativas.
 
+![image](https://github.com/user-attachments/assets/c6d02804-ca72-4514-93a7-5f4e28e2a4e3)
+
+![image](https://github.com/user-attachments/assets/17fd0d45-fd4f-4b48-af13-e064537a5edf)
 
 
